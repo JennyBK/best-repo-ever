@@ -1,6 +1,2 @@
 # best-repo-ever
-
-blahblahblah
-
-test
-
+This is a change
